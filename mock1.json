@@ -10,6 +10,8 @@
             "offerRuleCondition": "Para compras acima de 500 reais",
             "offerStartDate": "07/07/2017",
             "offerEndDate": "31/07/2017",
+            "offerTargetLink":"http://delivery.supermuffato.com.br/busca/?fq=H:888",
+            "offerImageLink":"http://muffatosupermercados.vteximg.com.br/arquivos/smd_home_17_07_03_topo_peg_35off.jpg",
             "offerName": "Super desconto P&G",
             "offerHeight": "2",
             "offerKeyDesc": "HORTFG MILHO VERDE BDJ 1 UN"
@@ -23,6 +25,8 @@
             "offerRuleCondition": "Para compras acima de 500 reais",
             "offerStartDate": "07/07/2017",
             "offerEndDate": "31/07/2017",
+            "offerTargetLink":"http://delivery.supermuffato.com.br/busca/?fq=H:888",
+            "offerImageLink":"http://muffatosupermercados.vteximg.com.br/arquivos/smd_home_17_07_03_topo_peg_35off.jpg",
             "offerName": "Super desconto P&G",
             "offerHeight": "2",
             "offerKeyDesc": "PANIF PAO FRANCES KG"
@@ -36,6 +40,8 @@
             "offerRuleCondition": "Para compras acima de 500gr de Ameixa",
             "offerStartDate": "07/07/2017",
             "offerEndDate": "21/07/2017",
+            "offerTargetLink":"http://delivery.supermuffato.com.br/busca/?fq=H:888",
+            "offerImageLink":"http://muffatosupermercados.vteximg.com.br/arquivos/smd_home_17_07_03_topo_peg_35off.jpg",
             "offerName": "Loucura Hortifruti",
             "offerHeight": "20",
             "offerKeyDesc": "F L V"
