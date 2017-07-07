@@ -2,6 +2,7 @@
     "d": {
         "results": [{
             "__metadata": "",
+            "customerName":"Rubao",
             "customerId": "92585760553",
             "offerId": "0000000007",
             "offerType": "PROD",
@@ -17,6 +18,7 @@
             "offerKeyDesc": "HORTFG MILHO VERDE BDJ 1 UN"
         }, {
             "__metadata": "",
+            "customerName":"Rubao",
             "customerId": "92585760553",
             "offerId": "0000000007",
             "offerType": "PROD",
@@ -32,6 +34,7 @@
             "offerKeyDesc": "PANIF PAO FRANCES KG"
         }, {
            "__metadata": "",
+            "customerName":"Rubao",
             "customerId": "92585760553",
             "offerId": "0000000008",
             "offerType": "CATE",
