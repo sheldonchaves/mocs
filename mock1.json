@@ -1,0 +1,44 @@
+{
+    "d": {
+        "results": [{
+            "__metadata": "",
+            "customerId": "92585760553",
+            "offerId": "0000000007",
+            "offerType": "PROD",
+            "offerKey": "101011",
+            "offerRule": "Toda família P&G com 35% de desconto",
+            "offerRuleCondition": "Para compras acima de 500 reais",
+            "offerStartDate": "07/07/2017",
+            "offerEndDate": "31/07/2017",
+            "offerName": "Super desconto P&G",
+            "offerHeight": "2",
+            "offerKeyDesc": "HORTFG MILHO VERDE BDJ 1 UN"
+        }, {
+            "__metadata": "",
+            "customerId": "92585760553",
+            "offerId": "0000000007",
+            "offerType": "PROD",
+            "offerKey": "10771",
+            "offerRule": "Toda família P&G com 35% de desconto",
+            "offerRuleCondition": "Para compras acima de 500 reais",
+            "offerStartDate": "07/07/2017",
+            "offerEndDate": "31/07/2017",
+            "offerName": "Super desconto P&G",
+            "offerHeight": "2",
+            "offerKeyDesc": "PANIF PAO FRANCES KG"
+        }, {
+           "__metadata": "",
+            "customerId": "92585760553",
+            "offerId": "0000000008",
+            "offerType": "CATE",
+            "offerKey": "F L V",
+            "offerRule": "Compre Ameixa e Leve Batata",
+            "offerRuleCondition": "Para compras acima de 500gr de Ameixa",
+            "offerStartDate": "07/07/2017",
+            "offerEndDate": "21/07/2017",
+            "offerName": "Loucura Hortifruti",
+            "offerHeight": "20",
+            "offerKeyDesc": "F L V"
+        }]
+    }
+}
