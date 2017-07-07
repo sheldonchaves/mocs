@@ -1,0 +1,90 @@
+<feed
+	xmlns="http://www.w3.org/2005/Atom"
+	xmlns:m="http://schemas.microsoft.com/ado/2007/08/dataservices/metadata"
+	xmlns:d="http://schemas.microsoft.com/ado/2007/08/dataservices" xml:base="http://192.168.128.175:8002/sap/opu/odata/sap/Z_MUFFATO_OFF_REC_SRV/">
+	<id>http://192.168.128.175:8002/sap/opu/odata/sap/Z_MUFFATO_OFF_REC_SRV/ClienteSet('92585760553')/ClientetoOfertas</id>
+	<title type="text">OffersSet</title>
+	<updated>2017-07-07T22:32:15Z</updated>
+	<author>
+		<name/>
+	</author>
+	<link href="ClienteSet('92585760553')/ClientetoOfertas" rel="self" title="OffersSet"/>
+	<entry>
+		<id>http://192.168.128.175:8002/sap/opu/odata/sap/Z_MUFFATO_OFF_REC_SRV/OffersSet(customerId='92585760553',offerId='0000000013',offerType='PROD',offerKey='7891035209000')</id>
+		<title type="text">OffersSet(customerId='92585760553',offerId='0000000013',offerType='PROD',offerKey='7891035209000')</title>
+		<updated>2017-07-07T22:32:15Z</updated>
+		<category term="Z_MUFFATO_OFF_REC_SRV.Ofertas" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme"/>
+		<link href="OffersSet(customerId='92585760553',offerId='0000000013',offerType='PROD',offerKey='7891035209000')" rel="edit" title="Ofertas"/>
+		<content type="application/xml">
+			<m:properties
+				xmlns:m="http://schemas.microsoft.com/ado/2007/08/dataservices/metadata"
+				xmlns:d="http://schemas.microsoft.com/ado/2007/08/dataservices">
+				<d:customerId>92585760553</d:customerId>
+				<d:offerId>0000000013</d:offerId>
+				<d:offerType>PROD</d:offerType>
+				<d:offerKey>7891035209000</d:offerKey>
+				<d:offerRule>Leve 3 Pague 2</d:offerRule>
+				<d:offerRuleCondition>Válido para itens iguais, 1 compra por cliente. Somente pessoa física. Valor Máximo R$500,00. Exceto Kibon e Becel</d:offerRuleCondition>
+				<d:offerStartDate>07/07/2017</d:offerStartDate>
+				<d:offerEndDate>31/07/2017</d:offerEndDate>
+				<d:offerName>Seleção de Produtos Unilever</d:offerName>
+				<d:offerHeight>2</d:offerHeight>
+				<d:offerKeyDesc>LIMPADOR VEJA MULTIUSO CAMPESTRE SQZ 500 ML</d:offerKeyDesc>
+				<d:offerImageLink>http://muffatosupermercados.vteximg.com.br/arquivos/smd_home_17_07_05_topo_unilever.jpg</d:offerImageLink>
+				<d:offerTargetLink>http://delivery.supermuffato.com.br/busca/?fq=H:798</d:offerTargetLink>
+			</m:properties>
+		</content>
+	</entry>
+	<entry>
+		<id>http://192.168.128.175:8002/sap/opu/odata/sap/Z_MUFFATO_OFF_REC_SRV/OffersSet(customerId='92585760553',offerId='0000000013',offerType='PROD',offerKey='7896098900277')</id>
+		<title type="text">OffersSet(customerId='92585760553',offerId='0000000013',offerType='PROD',offerKey='7896098900277')</title>
+		<updated>2017-07-07T22:32:15Z</updated>
+		<category term="Z_MUFFATO_OFF_REC_SRV.Ofertas" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme"/>
+		<link href="OffersSet(customerId='92585760553',offerId='0000000013',offerType='PROD',offerKey='7896098900277')" rel="edit" title="Ofertas"/>
+		<content type="application/xml">
+			<m:properties
+				xmlns:m="http://schemas.microsoft.com/ado/2007/08/dataservices/metadata"
+				xmlns:d="http://schemas.microsoft.com/ado/2007/08/dataservices">
+				<d:customerId>92585760553</d:customerId>
+				<d:offerId>0000000013</d:offerId>
+				<d:offerType>PROD</d:offerType>
+				<d:offerKey>7896098900277</d:offerKey>
+				<d:offerRule>Leve 3 Pague 2</d:offerRule>
+				<d:offerRuleCondition>Válido para itens iguais, 1 compra por cliente. Somente pessoa física. Valor Máximo R$500,00. Exceto Kibon e Becel</d:offerRuleCondition>
+				<d:offerStartDate>07/07/2017</d:offerStartDate>
+				<d:offerEndDate>31/07/2017</d:offerEndDate>
+				<d:offerName>Seleção de Produtos Unilever</d:offerName>
+				<d:offerHeight>2</d:offerHeight>
+				<d:offerKeyDesc>DETERGENTE YPE CLEAR CARE FC 500 ML</d:offerKeyDesc>
+				<d:offerImageLink>http://muffatosupermercados.vteximg.com.br/arquivos/smd_home_17_07_05_topo_unilever.jpg</d:offerImageLink>
+				<d:offerTargetLink>http://delivery.supermuffato.com.br/busca/?fq=H:798</d:offerTargetLink>
+			</m:properties>
+		</content>
+	</entry>
+	<entry>
+		<id>http://192.168.128.175:8002/sap/opu/odata/sap/Z_MUFFATO_OFF_REC_SRV/OffersSet(customerId='92585760553',offerId='0000000012',offerType='CATE',offerKey='F%20L%20V')</id>
+		<title type="text">OffersSet(customerId='92585760553',offerId='0000000012',offerType='CATE',offerKey='F%20L%20V')</title>
+		<updated>2017-07-07T22:32:15Z</updated>
+		<category term="Z_MUFFATO_OFF_REC_SRV.Ofertas" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme"/>
+		<link href="OffersSet(customerId='92585760553',offerId='0000000012',offerType='CATE',offerKey='F%20L%20V')" rel="edit" title="Ofertas"/>
+		<content type="application/xml">
+			<m:properties
+				xmlns:m="http://schemas.microsoft.com/ado/2007/08/dataservices/metadata"
+				xmlns:d="http://schemas.microsoft.com/ado/2007/08/dataservices">
+				<d:customerId>92585760553</d:customerId>
+				<d:offerId>0000000012</d:offerId>
+				<d:offerType>CATE</d:offerType>
+				<d:offerKey>F L V</d:offerKey>
+				<d:offerRule>35% de Desconto</d:offerRule>
+				<d:offerRuleCondition>Preço já com desconto, somente pessoa física 1 compra por cliente, com valor máximo de R$500 sem o desconto. Exceto Pampers</d:offerRuleCondition>
+				<d:offerStartDate>07/07/2017</d:offerStartDate>
+				<d:offerEndDate>01/08/2017</d:offerEndDate>
+				<d:offerName>Seleção de Produtos P&amp;G</d:offerName>
+				<d:offerHeight>20</d:offerHeight>
+				<d:offerKeyDesc>F L V</d:offerKeyDesc>
+				<d:offerImageLink>http://muffatosupermercados.vteximg.com.br/arquivos/smd_home_17_07_03_topo_peg_35off.jpg</d:offerImageLink>
+				<d:offerTargetLink>http://delivery.supermuffato.com.br/busca/?fq=H:888</d:offerTargetLink>
+			</m:properties>
+		</content>
+	</entry>
+</feed>
