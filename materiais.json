@@ -1,0 +1,36 @@
+{
+  "d" : {
+    "results" : [
+      {
+        "Matnr" : "1CWTW5100VQ",
+        "Maktx" : "LAVADORA WHIRLPOOL BLANCA"
+      },
+      {
+        "Matnr" : "BWC10BBANA",
+        "Maktx" : "LAVADORA CLEAN 10 kg 127V"
+      },      {
+        "Matnr" : "CWG12ABANA",
+        "Maktx" : "Lavadora aut.Consul Facilite 11,5Kg 127V"
+      },
+      {
+        "Matnr" : "WFW8400TB",
+        "Maktx" : "Lavadora Whirlpool CF, negra"
+      },
+      {
+        "Matnr" : "WFW8400TW",
+        "Maktx" : "Lavadora Whirlpool 35 libras, blanca"
+      },      {
+        "Matnr" : "WWI16ASGLA",
+        "Maktx" : "LAVADORA ROUPAS IMPELLER BEST CINZA 220"
+      },
+      {
+        "Matnr" : "WWT10ABBEA",
+        "Maktx" : "LAVADORA ROUPAS TIRA MANCHAS 10,2kg"
+      },
+      {
+        "Matnr" : "WWT10ABDEA",
+        "Maktx" : "LAVADORA ROUPAS TIRA MANCHAS 10,2kg"
+      }
+    ]
+  }
+}
